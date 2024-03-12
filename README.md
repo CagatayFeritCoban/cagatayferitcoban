@@ -9,7 +9,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47198uqzn8fa7el90sw3aaa34n2k7nw29nkkz6bda8&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cagatayferitcoban/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+</div>
 
 ###
 
@@ -35,6 +42,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47198uqzn8fa7el90sw3aaa34n2k7nw29nkkz6bda8&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/cagatayferitcoban/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,11 +57,6 @@
   <a href="www.linkedin.com/in/çağatay-ferit-çoban-1896931b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
