@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://gifdb.com/gif/anime-typing-fast-computer-keyboard-mndxj9qzsjyan25g.html?embed=true"  />
+<img align="right" height="150" src="https://github.com/CagatayFeritCoban/cagatayferitcoban/blob/main/1.gif?raw=true"  />
 
 
 <h2 align="left">Hi 👋! My name is Çağatay and I'm a Developer, from Turkey</h2>
