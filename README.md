@@ -1,3 +1,6 @@
+<img align="center" height="150" src="https://media.gifdb.com/anime-typing-fast-computer-keyboard-mndxj9qzsjyan25g.gif"  />
+
+
 <h2 align="left">Hi 👋! My name is Çağatay and I'm a Developer, from Turkey</h2>
 
 ###
@@ -42,7 +45,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47198uqzn8fa7el90sw3aaa34n2k7nw29nkkz6bda8&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
